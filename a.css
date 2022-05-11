@@ -43,6 +43,11 @@ header .container a.logo i {
   font-size: 41px;
 }
 
+header .container a.logo span {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 10px;
+}
+
 header .container .menu {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -525,6 +530,11 @@ footer .container .content a.logo {
 footer .container .content a.logo i {
   margin-right: 5px;
   font-size: 41px;
+}
+
+footer .container .content a.logo span {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 10px;
 }
 
 footer .container .content ul {
