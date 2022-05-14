@@ -1,10 +1,9 @@
 html {
   font-family: 'Poppins', sans-serif;
-  color: white;
 }
 
 .container {
-  width: 60%;
+  width: 1150px;
   margin: 0 auto;
 }
 
@@ -179,6 +178,7 @@ header .container .menu .menu-right a {
 }
 
 .content1 .container .content-package p {
+  color: white;
   font-size: 10px;
 }
 
@@ -324,8 +324,8 @@ header .container .menu .menu-right a {
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  width: 150px;
-  height: 150px;
+  width: 142px;
+  height: 142px;
 }
 
 .content3 .container .why-use-premium ul li .icon-download {
@@ -681,4 +681,4 @@ footer .container .end .right-content .country i {
 footer .container .end .right-content p {
   color: #919496;
 }
-/*# sourceMappingURL=a.css.map */
+/*# sourceMappingURL=style.css.map */
